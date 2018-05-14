@@ -1,4 +1,3 @@
-# Clustering_DataScience
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
